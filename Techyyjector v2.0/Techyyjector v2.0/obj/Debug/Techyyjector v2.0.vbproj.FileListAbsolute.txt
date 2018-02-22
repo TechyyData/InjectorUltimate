@@ -1,0 +1,26 @@
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.exe.config
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.exe
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.pdb
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.xml
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.vbprojResolveAssemblyReference.cache
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector_v2._0.Form1.resources
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector_v2._0.Resources.resources
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.vbproj.GenerateResource.Cache
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.exe
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.xml
+c:\users\beary\onedrive\documents\visual studio 2017\Projects\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.pdb
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.exe.config
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.exe
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.pdb
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\bin\Debug\Techyyjector v2.0.xml
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.vbprojResolveAssemblyReference.cache
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector_v2._0.Form1.resources
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector_v2._0.Resources.resources
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.vbproj.GenerateResource.Cache
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.exe
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.xml
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.pdb
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector_v2._0.Form2.resources
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector v2.0.vbproj.CoreCompileInputs.cache
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector_v2._0.Form3.resources
+C:\Users\beary\Desktop\Techyyjector v2.0\Techyyjector v2.0\obj\Debug\Techyyjector_v2._0.Form4.resources
